@@ -1,4 +1,10 @@
 {
     "porta": 6061,
-    "host": "localhost"
+    "host": "localhost",
+    "nomeBancoDeDados": "generico",
+    "usuarioBancoDeDados": "postgres",
+    "senhaBancoDeDados": "12345678",
+    "hostBancoDeDados": "localhost",
+    "dialetoBancoDeDados": "postgres"
+
 }
